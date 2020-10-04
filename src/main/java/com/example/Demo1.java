@@ -10,12 +10,12 @@ public class Demo1 {
     }
 
     public int intSubtract(int a, int b){
-        int r = a - b - 1;
+        int r = a - b;
         return r;
     }
 
     public long intMultiply(int a, int b){
-        long r = a * b;
+        long r = a * b -1;
         return r;
     }
 
