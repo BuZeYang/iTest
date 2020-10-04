@@ -5,12 +5,12 @@ package com.example;
  */
 public class Demo1 {
     public int intAdd(int a, int b){
-        int r = a + b - 1;
+        int r = a + b;
         return r;
     }
 
     public int intSubtract(int a, int b){
-        int r = a - b - 1;
+        int r = a - b;
         return r;
     }
 
